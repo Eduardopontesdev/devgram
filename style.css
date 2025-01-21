@@ -58,7 +58,7 @@ select {
   position: relative;
 }
 
-.img-instagram {
+.img-devgram {
   position: absolute;
   height: 524px;
   left: 151px;
@@ -183,7 +183,7 @@ select {
   .img-celular {
     display: none;
   }
-  .img-instagram {
+  .img-devgram {
     display: none;
   }
 
