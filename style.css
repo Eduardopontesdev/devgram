@@ -69,12 +69,6 @@ select {
   width: 450px;
 }
 
-.insta-logo {
-  width: 175px;
-  display: flex;
-  margin: 0 50px 20px 50px;
-}
-
 .caixa-form {
   width: 350px;
   background-color: #ffffff;
